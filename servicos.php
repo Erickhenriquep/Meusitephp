@@ -1,6 +1,6 @@
 <?php
 
-$sql = "SELECT *FROM paginas WHERE id=15";
+$sql = "SELECT *FROM paginas WHERE id=17";
 
 $todos = mysqli_query($conn, $sql);
 

@@ -1,0 +1,216 @@
+      
+                .container{
+                background-color:white;     
+               
+       
+       
+                }
+               a{
+               color: white;
+               }
+               
+               #menu{
+       
+               margin: 1vh auto;
+               min-width: 20vh;
+               background-color: black;
+               height: 80px;
+               color: white;
+               font-size: 25px;
+               padding-top: 10px;
+               padding-left: 15px;
+               padding-bottom: 20px;
+            
+       
+               /*
+               width: 100%;
+               height: 50px;
+               text-align: left;
+               
+              
+               */
+                                                                               
+               }
+           
+               #topo{
+               background-color: rgb(53, 44, 40);
+               width: 100%;
+               height: 800px;
+               text-align: center;
+               color: white;
+               margin-bottom: 5px;
+                                                                               
+               }
+               #imagemtopo{
+               display: inline-block;
+               width: 99%;
+               height: 790px;
+               margin-top: -125px;
+                                                                               
+               }
+               #principal{
+               font-size: 100px;
+               color: rgb(204, 53, 128);
+               position: relative;
+               padding-top: -130px;
+                                                                               
+               }
+               #conteudo{
+               background-color:rgb(194, 202, 194);
+               width:100%;
+               height: 1000px;
+               text-align: center;
+               
+           
+               }
+               .rodape{
+               font-size: 30px;
+               border-color: black;
+               background-color: rgb(109, 109, 86);
+               width:100%;
+               height: 200px;
+               text-align: center;
+               padding-top: 40px;
+               margin-top: 3px;
+                                                                           
+           
+               }
+               #a1{
+               
+               border-color: black;
+               color: black;
+               background-color: lightgray;
+               height: 450px;
+               font-size: 18px;
+               border-color: black;
+               text-align: center;
+               margin: 1vh auto;
+               margin-top: 45px;
+               /*
+               border-width: 10px;
+               width: 45%;
+               height: 45%;
+               float: left;
+               */
+                                                                           
+                                                                           
+                                                                               
+               }
+               #a2{
+               
+               border-color: black;
+               color: black;
+               background-color: rgb(142, 206, 142);
+               height: 450px;
+               font-size: 18px;
+               border-color: black;
+               text-align: center;
+               margin: 1vh auto;
+               margin-top: 45px;
+               /*
+               float: left;
+               border-width: 10px;
+               width: 45%;
+               height: 45%;
+       
+               */
+                                                                               
+                                                                           
+               }
+               #a3{
+               
+               border-color: black;
+               color: black;
+               background-color: pink;
+               height: 450px;
+               font-size: 18px;
+               border-color: black;
+               text-align: center;
+               margin: 1vh auto;
+               /*
+               margin-bottom: -30px;
+               float: right;
+               width: 45%;
+               height: 45%;
+               border-width: 10px;
+               */
+               }
+               #a4{
+               
+               border-color: black;
+               color: black;
+               background-color: rgb(161, 110, 91);
+               height: 450px;
+               font-size: 18px;
+               text-align: center;
+               border-color: black;
+               margin: 1vh auto;
+               /*
+               margin-bottom: -10px;
+               float: right;
+               width: 45%;
+               height: 45%;
+               border-width: 10px;
+               */
+                                                                               
+               }
+           
+               #imagem1{
+                    
+               height: 200px;
+           
+               }
+               #imagem2{
+                height: 200px;
+               }
+                                                                           
+               #imagem3{
+                height: 200px;
+               }
+                                                                           
+               #imagem4{
+                height: 200px;
+                                                                           
+               }
+           
+               #quemsomos{
+               text-align: center;
+           
+               } 
+               
+               #p1{
+
+                height: 100px;
+               }
+
+               #texto1{
+                height: 100px;
+
+               }
+               #p2{
+                height: 100px;   
+
+                }
+
+                #texto2{
+                height: 100px;
+
+                }
+                #p3{
+                height: 100px;       
+
+                }
+
+                #texto3{
+                height: 100px;
+
+                }
+                #p4{
+                height: 100px;     
+
+                }
+
+                #texto4{
+                height: 100px;
+
+                }

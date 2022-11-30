@@ -1,13 +1,37 @@
-<h4> Fale Conosco</h4>
 
-<form action="?pg=contatodb" method="post">
+<div class="container">
 
-    <label for=""> Nome</label> <input type="text" name="nome"><br><br>
-    <label for=""> E-mail</label> <input type="text" name="email"><br><br>
-    <label for=""> Cidade</label> <input type="text" name="cidade"><br><br>
-    <label for=""> Estado</label> <input type="text" name="estado"><br><br>
-    <label for=""> Mensagem</label> <input type="text" name="mensagem"><br><br>
-    
-    <button> Enviar </button>
+    <h4 class=""> Fale Conosco</h4>
 
-</form>
+    <form class="" action="?pg=contatodb" method="post">
+
+        <div class="form-group row">
+            <label for=""> Nome </label> <input type="text" name="nome" class="form-control"><br><br>
+        </div>
+        <hr>
+        <div class="form-group row">
+            <label for=""> E-mail </label> <input type="text" name="email" class="form-control"><br><br>
+        </div>
+        <hr>
+        <div class="form-group row">
+            <label for=""> Cidade </label> <input type="text" name="cidade" class="form-control"><br><br>
+        </div>
+        <hr>
+        <div class="form-group row">
+            <label for=""> Mensagem </label> 
+            <textarea name="mensagem" id="" cols="30" rows="10" class="form-control"></textarea><br><br>
+          
+        </div>
+        <hr>
+        <div class="form-group row">
+            <button class="btn btn-dark"> Enviar </button>
+        </div>
+        
+
+        
+
+    </form>
+
+</div>
+
+
