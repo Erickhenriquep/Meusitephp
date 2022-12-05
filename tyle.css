@@ -1,0 +1,148 @@
+
+      body{
+        font-family: sans-serif;
+
+      }
+
+      .row{
+
+        margin: 0;
+
+      }
+      .container{
+
+        padding: 70px 0;
+
+      }
+
+      p, li {
+        color: #444;
+        font-size: 14px;
+      }
+
+      #nav-container{
+
+        padding-top: 0;
+        padding-bottom: 0;
+
+      }
+
+      .navbar-brand{
+
+        padding: 0;
+      }
+
+      .navbar-nav .nav-link{
+        padding: 1rem .8rem;
+
+      }
+      #carrossel{
+
+        padding: 0;
+
+      }
+      #carrossel .carousel-inner, #carrossel .carousel-item {
+        height: 90vh;
+      }
+
+      #cursos{
+        margin-top: 100px;
+        margin-bottom: 140px;
+
+      }
+
+      #contato{
+        margin-top: 100px;
+        margin-bottom: 140px;
+        
+      }
+      .card-body {
+        text-align: center;
+      }
+    
+      #quemsomos{
+
+        margin-top: 100px;
+        margin-bottom: 140px;
+
+      }
+      
+      #metodologia{
+
+        background-color: rgb(172, 167, 167);
+        margin-top: 100px;
+        margin-bottom: 140px;
+        height: 600px;
+      }
+      .metodologia-box {
+        text-align: center;
+        margin-bottom: 50px;
+        
+      }
+      .metodologia-box i {
+        font-size: 36px;
+        margin-bottom: 20px;
+        color: #444;
+      }
+      
+      .metodologia-box h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+
+      .titulo3{
+
+        margin: 0 0 65px 0;
+        font-size: 40px;
+        text-align: center;
+        
+      }
+      .titulo4{
+
+        margin: 0 0 65px 0;
+        font-size: 40px;
+        text-align: center;
+        padding-top: 50px;
+      }
+      .titulo5{
+
+        margin: 0 0 65px 0;
+        font-size: 40px;
+        text-align: center;
+        
+      }
+
+      .titulo3::after{
+
+        content: "";
+        border-top: 2px solid #333;
+        width: 15%;
+        position: absolute;
+        top: 60%;
+        left: 42.5%;
+
+      }
+     
+ 
+      #rodape{
+
+        background-color: rgb(172, 166, 166);
+        height: 200px;
+        color: white;
+        align-content: center;
+        margin-top: 100px;
+        padding-top: 60px;
+        
+        
+        
+      }
+      #rodapenav{
+
+        font-size: 20px;
+
+      }
+      #rodapenav2{
+
+        font-size: 15px;
+
+      }
